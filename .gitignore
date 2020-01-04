@@ -1,0 +1,5 @@
+book_venv/
+.env
+db.sqlite3
+media/
+.idea/

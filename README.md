@@ -1,0 +1,1 @@
+# `A social network created using the example from the book "Django in Examples"`
